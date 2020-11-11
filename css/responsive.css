@@ -1,0 +1,175 @@
+@media (max-width: 1400px) {
+	
+}
+\
+@media (max-width: 1200px) {
+	
+}
+
+@media (max-width: 992px) {
+	.banner-part .banner-inner h1 {
+	font-size: 62px;
+    
+}
+.Qoute-section .text-part h6 {
+    font-size: 14px;
+    
+}
+
+
+.feature-section-1 img {
+    height: 244px;
+    width: 247px;
+    margin-left: 28px;
+    margin-bottom: 28px;
+    box-shadow: 12px 12px 0 #EDEDED;
+}
+
+element.style {
+}
+.feature-section-1 h2 {
+
+    font-size: 25px;
+}
+.feature-section-1 p {
+    font-size: 13px;
+}
+.banner-inner {
+    order: -1;
+    padding: 0px 20px;
+    text-align: left;
+}
+.banner-inn{
+	order: 0;
+}
+
+
+.feature-section-2 .text-part h2 {
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #222;
+}
+.feature-section-2 .col-md-4 .text-part{
+	width: 100%;
+}
+}
+
+@media (max-width: 767px) {
+	.banner-part .banner-inner h6 {
+    font-size: 21px;
+    
+}
+.banner-part .banner-inner h1 {
+    font-size: 45px;
+}
+.banner-part .banner-inner .btn {
+    font-size: 10px;
+    padding: 5px 28px;
+  
+}
+.Qoute-section .text-part h6 {
+    font-size: 17px;
+}
+
+.feature-section-1 img {
+    height: 232px;
+    width: 200px;
+    margin-left: 12px;
+    margin-bottom: 22px;
+    box-shadow: 10px 10px 0 #EDEDED;
+}
+.feature-section-1 h2 {
+    font-size: 22px;
+}
+.feature-section-1 p {
+    font-size: 12px;
+}
+.banner-2 h2 {
+   
+    font-size: 34px;
+    line-height: 44px;
+    
+}
+
+.feature-section-2 .text-part .btn {
+    color: #fff;
+    font-size: 13px;
+    line-height: 28px;
+    background: #FB2056;
+    border: 1px solid #FB2056;
+    border-radius: 30px;
+    padding: 4px 7px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-top: 35px;
+}
+
+.feature-section-2 .col-md-4 .text-part{
+	width: 100%;
+}
+
+}
+@media (max-width: 576px) {
+	.feature-section-2 .col-sm-4 .text-part{
+	width: 100%;
+}
+.banner-part .banner-inner h6 {
+    font-size: 20px;
+}
+.banner-part .banner-inner h1 {
+    font-size: 39px;
+}
+.Qoute-section .image-part{
+max-width: 100%;
+height: auto;
+margin: auto;
+width: 40% !important;
+filter: invert(0.4);
+}
+.Qoute-section .text-part h6 {
+    font-size: 20px;
+    padding-top: 6px;
+}
+.feature-section-1 h1 {
+    font-size: 26px;
+    padding-top: 61px;
+}
+.feature-section-1 img {
+    height: 232px;
+    width: 200px;
+    margin-left: 125px;
+}
+
+
+.feature-section-2 .text-part h2 {
+    font-size: 28px;
+
+}
+.feature-section-2 .text-part hr {
+    margin: auto;
+}
+.feature-section-2 .text-part p {
+    font-size: 14px;
+    width: 97%;
+    margin-top: 30px;
+}
+.feature-section-2 .text-part .btn {   
+    font-size: 13px;   
+    padding: 5px 11px;
+    margin-bottom: 46px;
+}
+.feature-section-2 .hight-2 {
+    padding-bottom: 30px;
+    height: 360px;
+    padding-top: 32px;
+}
+.footer-section h6 {
+    font-size: 11px;
+}
+}
+
+
+
+
